@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 IUG Programming Media (1) – Lab | CSCI 1203  
+# 📘 IUG Programming  (1) – Lab Using Python | WDMM-1003
 ## **Course Code Repository (Fall 2025)**  
 ### **Instructor: Aya Nabil Alharazin – Teaching Assistant**  
 #### Faculty of Information Technology – Islamic University of Gaza  
@@ -57,6 +57,7 @@ pythonLab/
 ├── week6_functions/
 │
 └── README.md
+```
 📅 Semester
 Fall Term – November 2025
 
