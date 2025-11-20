@@ -67,5 +67,4 @@ Teaching Assistant – Faculty of Information Technology
 Islamic University of Gaza
 
 📧 Email: alharazinaya@gmail.com
-20 Nov. 2025
-</div> ```
+## **20 Nov. 2025**
