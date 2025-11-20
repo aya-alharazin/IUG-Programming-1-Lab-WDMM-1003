@@ -1,59 +1,87 @@
 <div align="center">
-📘 IUG Programming Media (1) – Lab | CSCI 1203
-Course Code Repository (Fall 2025)
-Instructor: Aya Nabil Alharazin – Teaching Assistant
-Faculty of Information Technology – Islamic University of Gaza
+
+# 📘 IUG Programming Media (1) – Lab | CSCI 1203  
+## **Course Code Repository (Fall 2025)**  
+### **Instructor: Aya Nabil Alharazin – Teaching Assistant**  
+#### Faculty of Information Technology – Islamic University of Gaza  
+
 </div>
-🎯 Purpose of This Repository
+
+---
+
+## 🎯 **Purpose of This Repository**
 
 This repository is created to:
 
-Provide all Python programs written during lab sessions
+- Provide all Python programs written during lab sessions  
+- Teach students how to write **clean, structured, and efficient** Python code  
+- Explain concepts using **simple examples + comments inside code**  
+- Centralize all **weekly lab materials and exercises**  
+- Help students who missed lectures or want extra practice  
+- Build a strong **programming foundation using Python**
 
-Teach students how to write clean, structured, and efficient Python code
+---
 
-Explain concepts using simple examples + comments inside code
-
-Centralize all weekly lab materials and exercises
-
-Help students who missed lectures or want extra practice
-
-Build a strong programming foundation using Python
-
-🐍 What You Will Learn
+## 🐍 **What You Will Learn**
 
 Throughout this course, students will learn:
 
-Python syntax and basic structure
+| Topic | Description |
+|------|-------------|
+| Python Syntax | Basic structure of a Python program |
+| Variables | Data types & assignment |
+| Input / Output | `input()` and `print()` |
+| Conditions | `if`, `elif`, `else` |
+| Loops | `for`, `while` |
+| Lists & Tuples | Storage & operations |
+| Dictionaries | Key-value structure |
+| Functions | Parameters, return values |
+| Mini Projects | Simple problem-solving |
 
-Variables & data types
+---
 
-Input and output in Python
+## 📁 **Weekly Structure**
 
-Conditional statements (if, elif, else)
-
-Loops (for, while)
-
-Lists, tuples, dictionaries
-
-Functions and parameters
-
-Simple problem-solving techniques
-
+```plaintext
+pythonLab/
+│
+├── week0_introduction/
+│     ├── hello.py
+│     └── variables.py
+│
+├── week1_input_output/
+├── week2_conditions/
+├── week3_loops/
+├── week4_lists_tuples/
+├── week5_dictionaries/
+├── week6_functions/
+│
+└── README.md
 📅 Semester
-
 Fall Term – November 2025
 
 👩‍🏫 Instructor
-
 Aya Nabil Alharazin
 Teaching Assistant – Faculty of Information Technology
 Islamic University of Gaza
 
-🧠 Target Students
+📧 Email: alharazinaya@gmail.com
 
+🧠 Target Students
 IUG students taking Programming Media (1)
 
-Anyone new to Python and wants to learn programming basics
+Beginners who want to learn Python from zero
 
 Students preparing for future programming courses
+
+📌 License
+This repository is intended for educational use by IUG students and must not be redistributed without permission.
+
+⭐ Support the Repository
+If you find this helpful, give it a star ⭐ on GitHub — it motivates us to keep improving!
+
+<div align="center">
+✨ Happy Coding! ✨
+Python is not just code — it's logic, creativity, and problem-solving. 🧠💻🐍
+
+</div> ```
