@@ -67,22 +67,5 @@ Teaching Assistant – Faculty of Information Technology
 Islamic University of Gaza
 
 📧 Email: alharazinaya@gmail.com
-
-🧠 Target Students
-IUG students taking Programming Media (1)
-
-Beginners who want to learn Python from zero
-
-Students preparing for future programming courses
-
-📌 License
-This repository is intended for educational use by IUG students and must not be redistributed without permission.
-
-⭐ Support the Repository
-If you find this helpful, give it a star ⭐ on GitHub — it motivates us to keep improving!
-
-<div align="center">
-✨ Happy Coding! ✨
-Python is not just code — it's logic, creativity, and problem-solving. 🧠💻🐍
-
+20 Nov. 2025
 </div> ```
