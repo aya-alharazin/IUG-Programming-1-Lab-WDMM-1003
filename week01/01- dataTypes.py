@@ -1,26 +1,22 @@
 '''
-Variables can store data of different types,
-and different types can do different things.
-python is dynamic data type
-Python has the following data types built-in by default :
-Text Type:	str
-Numeric Types:	int, float
-Boolean Type:	bool
-***Getting the Data Type Using type() function***
-*** concatenation vs addition***
+🥇 Introduction to Variables & Data Types in Python
+Variables can store data of different types.
+📌 Python is a *dynamically typed* language:
+    - You do NOT need to specify the data type.
+    - Python automatically knows the type when you assign a value.
+📌 Python has these basic built-in data types:
+    1- Text Type:
+        - str       → e.g., "Aya", "Hello"
+    2- Numeric Types:
+        - int       → whole numbers like 10, 22, 100
+        - float     → decimal numbers like 5.5, 60.5
+    3- Boolean Type:
+        - bool      → True or False
+------------------------------------------------------------
+🔍 How to check the data type?
+    → Use the type() function
+------------------------------------------------------------
+📌 Concatenation vs Addition
+    - "Aya" + "Doaa"  → this joins strings (concatenation)
+    - 10 + 20         → this adds numbers (addition)
 '''
-# name="Aya"
-# age=22
-# isGraduated=False
-# weight=60.5
-# print(type(name))
-# print(type(age))
-# print(type(isGraduated))
-# print(type(weight))
-
-
-name1="aya"
-name2=name1
-name1="doaa"
-print(name1)
-print(name2)

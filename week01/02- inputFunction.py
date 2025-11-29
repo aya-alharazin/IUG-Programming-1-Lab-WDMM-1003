@@ -1,13 +1,13 @@
-#input() function in python : to take input from the user
-#syntax of using input
-# input(prompt)
-#prompt : to ask the user what to enter when i need the name of the user so the prompt will be
-# what is your name
-# prompt : is the message that will displayed on the screen before taking the input from the user
-#prompt is optional
-# input function will return string by defualt
-name = input("what is your name?")
-print("Hello " + name)
-# ask the user for his name
-# what is your name ? Nour
-# Hey Nour , How are u?
+'''
+🐍 1. input() Function in Python :
+The input() function is used when you want your program to ask
+the user for information while the program is running.
+⭐ 2. What Is a Prompt?
+The text inside the input function is called a prompt.
+⭐ 3. Input Always Comes as a String
+Even numbers are returned as text.
+Ex :
+1- ask the user for his name
+input : what is your name ? Nour
+output:Hey Nour , How are u?
+'''
